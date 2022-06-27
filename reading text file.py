@@ -22,6 +22,6 @@ def count_words():
            counts[word] += 1
         else:
             counts[word] = 1
-    print (counts)           
+    dictionary (counts)           
 
 count_words ()    
